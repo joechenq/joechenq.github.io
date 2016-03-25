@@ -1,8 +1,0 @@
-{
-  "name": "default",
-  "version": "1.0.0",
-  "license": "MIT",
-  "dependencies": {
-    "bootstrap": "~3.3.6"
-  }
-}
